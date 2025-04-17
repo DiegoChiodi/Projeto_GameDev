@@ -1,0 +1,8 @@
+usar try para identificar erros
+
+tempo para todos os computadores rodarem igualmente
+
+usar x e y como float e deixar o std_rect apenas para desenhar
+
+implementar a biblioteca de vector do professor
+
