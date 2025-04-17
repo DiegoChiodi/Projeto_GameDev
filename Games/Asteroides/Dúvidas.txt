@@ -1,0 +1,5 @@
+até quando vale a pena usar um if else ao invés do template
+
+poderia fazer dt ser uma variavel global
+
+30 de delay daria quanto de fps
